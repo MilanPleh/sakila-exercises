@@ -1,3 +1,3 @@
 # sakila-exercises
-Hello, these are my approaches for solving around 32 questions of the sakila db. 
+Hello, these are my approaches for solving some questions that I have found online of the sakila db. 
 Note: I used MySQL for solving these exercises. 
