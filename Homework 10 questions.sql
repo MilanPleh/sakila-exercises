@@ -72,10 +72,6 @@ WHERE
     c.first_name = 'Mary'
         AND f.title = 'Academy Dinosaur';
 
--- SOLUTION 
--- insert into rental (rental_date, inventory_id, customer_id, staff_id)
--- values (NOW(), 1, 1, 1);
-
 -- When is ‘Academy Dinosaur’ due?
 SELECT 
     rental_duration AS rental_due, title
